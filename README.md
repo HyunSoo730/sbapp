@@ -52,3 +52,4 @@ __프로젝트 우클릭 > Run As > Spring Boot App__ 을 통해 구동한다.
 #### 2) context-\*.xml -> @Configuration 변환
 
 #### 3) properties 변환(예정) boot 지원
+# Project Update Tue Oct  8 08:52:08 UTC 2024
